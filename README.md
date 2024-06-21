@@ -13,7 +13,6 @@ Link Dataset : https://drive.google.com/drive/folders/1RTv-C9fUHt-zijJasc8lllfTY
 
 ## Development Code
 
-This folder
 
 ![Glowfy](https://github.com/dMorran/ML_Capstone/blob/75dad315d3a7fda4646aec9753949fa3e372a6e2/demo.png)
 
@@ -88,7 +87,7 @@ Follow these steps to set up and run the project locally:
      pip install seaborn
      ```
   
-  - Run the following command to install all required dependencies for pimple detector:
+   - Run the following command to install all required dependencies for pimple detector:
      ```bash
      pip install numpy
      pip install pandas
@@ -99,11 +98,7 @@ Follow these steps to set up and run the project locally:
      pip install seaborn
      ```
 
-3. **Download Dataset**
-
-Make sure to download the necessary datasets for both skin type classification and pimple detection. The datasets should be placed in the appropriate directories as expected by the code.
-
-4. **Build and Run The Project**
+3. **Build and Run The Project**
    - Open the project in IDE (VSCODE, PyCharm, or Jupyter Notebook).
    - Build the project.
    - Run the project on an emulator or a physical device.
@@ -112,6 +107,7 @@ Make sure to download the necessary datasets for both skin type classification a
 
 - Make sure all paths match the ones used during execution.
 - Make sure you have installed Python version 3.11.
+- Make sure to download the necessary datasets for both skin type classification and pimple detection. The datasets should be placed in the appropriate directories as expected by the code.
 
 
 
