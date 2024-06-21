@@ -86,6 +86,7 @@ Follow these steps to set up and run the project locally:
      pip install tensorflowjs
      pip install seaborn
      ```
+  
   - Run the following command to install all required dependencies for pimple detector:
      ```bash
      pip install numpy
