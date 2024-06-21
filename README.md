@@ -93,7 +93,7 @@ Follow these steps to set up and run the project locally:
 3. **Build and Run The Project**
    - Open the project in IDE (VSCODE, PyCharm, or Jupyter Notebook).
    - Build the project.
-   - Run the project on an emulator or a physical device.
+   - Run the project.
 
 ## **Additional Notes**
 
