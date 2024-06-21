@@ -1,7 +1,7 @@
 # Glowfy Machine Learning Repository
 ![Glowfy](https://github.com/dMorran/ML_Capstone/blob/75dad315d3a7fda4646aec9753949fa3e372a6e2/demo.png)
 
-
+# Glowfy - Unlock Your Skin’s Potential and Discover Your Glow
 This repository contains the skin detector and pimple detector for Glowfy application.
 
 ## Table of Contents
@@ -11,9 +11,6 @@ This repository contains the skin detector and pimple detector for Glowfy applic
 
 Link Dataset : https://drive.google.com/drive/folders/1RTv-C9fUHt-zijJasc8lllfTY9JSjrws
 
-## Development Code
-
-# Glowfy - Unlock Your Skin’s Potential and Discover Your Glow
 
 (C241-PS064)
 
