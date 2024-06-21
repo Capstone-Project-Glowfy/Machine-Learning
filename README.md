@@ -76,6 +76,7 @@ Follow these steps to set up and run the project locally:
      ```
 
 2. **Install Dependencies**
+
    - Run the following command to install all required dependencies for skin type classification:
      ```bash
      pip install numpy==1.24.3
