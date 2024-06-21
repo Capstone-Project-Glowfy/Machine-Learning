@@ -9,6 +9,8 @@ This repository contains the skin detector and pimple detector for Glowfy applic
 - [Development Code](#Development-code)
 - [Model Tensorflow.js](#Model-Tensorflow.js)
 
+Link Dataset : https://drive.google.com/drive/folders/1RTv-C9fUHt-zijJasc8lllfTY9JSjrws
+
 ## Development Code
 
 This folder
@@ -95,7 +97,11 @@ Follow these steps to set up and run the project locally:
      pip install seaborn
      ```
 
-3. **Build and Run The Project**
+3. **Download Dataset**
+
+Make sure to download the necessary datasets for both skin type classification and pimple detection. The datasets should be placed in the appropriate directories as expected by the code.
+
+4. **Build and Run The Project**
    - Open the project in IDE (VSCODE, PyCharm, or Jupyter Notebook).
    - Build the project.
    - Run the project on an emulator or a physical device.
