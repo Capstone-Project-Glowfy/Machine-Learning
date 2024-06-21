@@ -1,4 +1,14 @@
-# ML_Capstone
+# Glowfy Machine Learning Repository
 
-Glowfy Machine Learning Github.
-This repository is
+!(https://github.com/dMorran/ML_Capstone/blob/main/demo.png)
+
+This repository contains the skin detector and pimple detector for Glowfy application.
+
+## Table of Contents
+
+- [Development Code](#Development-code)
+- [Model Tensorflow.js](#Model-Tensorflow.js)
+
+## Development Code
+
+This folder
