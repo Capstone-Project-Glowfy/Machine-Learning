@@ -1,8 +1,9 @@
 # Glowfy Machine Learning Repository
 ![Glowfy](https://github.com/dMorran/ML_Capstone/blob/75dad315d3a7fda4646aec9753949fa3e372a6e2/demo.png)
 
-# Glowfy - Unlock Your Skin’s Potential and Discover Your Glow
+# **Glowfy - Unlock Your Skin’s Potential and Discover Your Glow**
 This repository contains the skin detector and pimple detector for Glowfy application.
+Glowfy's machine learning model is developed using the Python programming language and utilizes TensorFlow for model creation.
 
 ## Table of Contents
 
@@ -41,9 +42,6 @@ Link Dataset : https://drive.google.com/drive/folders/1RTv-C9fUHt-zijJasc8lllfTY
 | Nurul Anzila Wahyana|[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nurul-anzila-wahyana/)|
 | Dyas Amorita Radhwa Nashirah|[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dyas-amorita-radhwa-nashirah-1044a2222/)|
 
-# **Glowfy Machine Learning**
-
-Glowfy's machine learning model is developed using the Python programming language and utilizes TensorFlow for model creation.
 
 
 ## **Features**
